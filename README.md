@@ -16,15 +16,15 @@ Os pontos também podem ser modificados clicando no valor desejado, afinal a exi
 
 ## Funções
 
-removeScore: Função de remoção de pontos
-newRound: Nova rodada da mesma partida o contador de truco é zerado
-checkScore: Verifica algum vencedor
-winningMessage: Mensagem para o vencedor da partida
-newGame: Quando alguem vencer o jogo é resetado
-elevenPointsError: Erro de chamar truco na mão de onze
-maxPointError: Erro de chamar truco alem de 12 pontos
-score: Função de pontuação da rodada
-conter: Retorna o Widget contendo os Radio buttons referente ao time
+#### removeScore: Função de remoção de pontos
+#### newRound: Nova rodada da mesma partida o contador de truco é zerado
+#### checkScore: Verifica algum vencedor
+#### winningMessage: Mensagem para o vencedor da partida
+#### newGame: Quando alguem vencer o jogo é resetado
+#### elevenPointsError: Erro de chamar truco na mão de onze
+#### maxPointError: Erro de chamar truco alem de 12 pontos
+#### score: Função de pontuação da rodada
+#### conter: Retorna o Widget contendo os Radio buttons referente ao time
 
 ## Iniciando
 flutter pub get
