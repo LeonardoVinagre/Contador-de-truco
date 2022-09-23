@@ -2,8 +2,8 @@
 
 Para a avaliação de Desenvolvimento de aplicativos Mobile foi atribuida a criação de um marcador de truco ou um jogo da velho, foi escolhido pela dupla então o projeto do marcador de truco
 Projeto realizado por:
-Douglas Sturion 202010264
-Leonardo Vinagre 202010277
+### Douglas Sturion 202010264
+### Leonardo Vinagre 202010277
 
 ## Objetivo
 
@@ -14,5 +14,19 @@ Os pontos também podem ser modificados clicando no valor desejado, afinal a exi
 ![Fim da partida](https://user-images.githubusercontent.com/66652899/191984234-b123b2a3-8932-42a0-977f-05f243411df7.png)
 
 
+## Funções
+
+removeScore: Função de remoção de pontos
+newRound: Nova rodada da mesma partida o contador de truco é zerado
+checkScore: Verifica algum vencedor
+winningMessage: Mensagem para o vencedor da partida
+newGame: Quando alguem vencer o jogo é resetado
+elevenPointsError: Erro de chamar truco na mão de onze
+maxPointError: Erro de chamar truco alem de 12 pontos
+score: Função de pontuação da rodada
+conter: Retorna o Widget contendo os Radio buttons referente ao time
+
+## Iniciando
+flutter pub get
 
 
