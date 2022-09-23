@@ -26,8 +26,8 @@ class Truco extends StatefulWidget {
 }
 
 class _TrucoState extends State<Truco> {
-  Object? teamOne = 0; //valor atual do Radio
-  Object? teamTwo = 0;
+  Object? teamOne = 0; //valor atual do Radio do time 1
+  Object? teamTwo = 0; //valor atual do Radio do time 2
   int truco = 0; // valor de pontos acumulados atual do truco
 
   @override
@@ -176,7 +176,7 @@ class _TrucoState extends State<Truco> {
         ));
   }
 
-  AppBar buildAppBar() {
+  AppBar buildAppBar() { //Barra superior
     return AppBar(
       title: Text('Marcador de truco'),
       backgroundColor: Colors.brown,
