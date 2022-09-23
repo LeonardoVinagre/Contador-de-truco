@@ -1,17 +1,15 @@
-# Contador-de-truco
-# truco
+# Contexto
 
-A new Flutter project.
+Para a avaliação de Desenvolvimento de aplicativos Mobile foi atribuida a criação de um marcador de truco ou um jogo da velho, foi escolhido pela dupla então o projeto do marcador de truco
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+O objetivo do marcador é realizar a contagem dos pontos de uma partida de truco, com botão que acrescenta os tentos de forma automática, aumentando a quantidade de acordo com as chamadas de truco, o aplicativo também pode subtrair os pontos em caso de engano, além disso, apresenta alguns pop-ups informativos, como o fim da partida ou uma chamada incorreta de truco na mão de 11!
+Os pontos também podem ser modificados clicando no valor desejado, afinal a exibição do placar é feito com o uso de botões Radio.
+![Preview do app](https://user-images.githubusercontent.com/66652899/191983715-4a31fc9e-a394-48e2-a46f-ffc038fbb0c3.png)
+![Erro de mão de onze](https://user-images.githubusercontent.com/66652899/191984181-6a87bd86-f60d-4e67-910a-c3c4766127cb.png)
+![Fim da partida](https://user-images.githubusercontent.com/66652899/191984234-b123b2a3-8932-42a0-977f-05f243411df7.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
