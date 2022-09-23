@@ -1,6 +1,9 @@
 # Contexto
 
 Para a avaliação de Desenvolvimento de aplicativos Mobile foi atribuida a criação de um marcador de truco ou um jogo da velho, foi escolhido pela dupla então o projeto do marcador de truco
+Projeto realizado por:
+Douglas Sturion 202010264
+Leonardo Vinagre 202010277
 
 ## Objetivo
 
